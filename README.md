@@ -14,14 +14,28 @@ var name;           // Declaration hoisted to top
 console.log(name);  // undefined
 name = "John";      // Assignment stays in place
 console.log(name);  // "John"
-```
                 
+## Tec Stack:
+### Frontend:
+- **React With Vite**: Vite is 10-100x faster than older bundlers
+- **TypeScript** (essential for professional work, catches bugs before runtime)
+- **Axios** (for making HTTP requests to the backend)
+- **TanStack Query (React Query)**: Industry standard for API calls, caching, and state management
+
+### BackendL
+- **FastAPI**: with Pydantic for validation
+- **CORS middleware**: configured properly
+- **Python-multipart**: for file uploads (images to your model)
 
 
+## Importance of This Techstack:
+- **TypeScript**: catches 90% of bugs before they reach production
+- **TanStack Query**: handles loading states, caching, retries automatically
+- **Vite**: is 10-100x faster than older bundlers
+- **This is what modern startups/companies use in 2025**
 
 
 ## File Structure:
-```
 my-ml-app/
 ├── frontend/                    # React app
 │   ├── public/
