@@ -1,6 +1,7 @@
 # Js
 ## Concepts:
-**Aysnc By Default**
+**Aysnc**  By Default
+
 **Prototype Inheritance**: unlike Python Js don't have classes, objects inherit properties from other objects. via prototype not by class blueprint.
 ```
 console.log(name);  // Output: undefined (not an error!)
