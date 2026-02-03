@@ -37,6 +37,7 @@ console.log(name);  // "John"
 
 
 ## File Structure:
+```
 my-ml-app/
 ├── frontend/                    # React app
 │   ├── public/
