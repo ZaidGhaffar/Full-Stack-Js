@@ -14,7 +14,8 @@ var name;           // Declaration hoisted to top
 console.log(name);  // undefined
 name = "John";      // Assignment stays in place
 console.log(name);  // "John"
-                
+```
+
 ## Tec Stack:
 ### Frontend:
 - **React With Vite**: Vite is 10-100x faster than older bundlers
